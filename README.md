@@ -4,6 +4,9 @@ This repository contains training of [EfficientDet](https://github.com/roboflow-
 
 The below images shows an example of object detection in image and video.
 
+![Alt text](https://github.com/kalpiree/Neural_networks/blob/main/image_inference/original_imgs/actual_2.jpg?raw=true "Actual Image")
+![Alt text](https://github.com/kalpiree/Neural_networks/blob/main/image_inference/infer_imgs/infer_2.jpg?raw=true "Object-detected Image")
+
 The repository contains following files:
 ```
 ├── main.ipynb                   # Jupyter notebook to train and infer code.
