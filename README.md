@@ -14,9 +14,6 @@ The repository contains following files:
 ├── image_inference              # Directory containing original and object-detected images
    ├── original_imgs              # Directory containing original images
    ├── infer_imgs                 # Directory containing inferred images
-├── video_inference              # Directory containing original and object-detected images
-   ├── original_vids              # Directory containing original videos
-   ├── infer_vids                 # Directory containing inferred videos
 └── README.md
 ```
 
